@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<!--
 **GurkanwarSingh56/GurkanwarSingh56** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -12,4 +11,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: gurkanwarsingh56@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I can solve a Rubik's cube in under a minute!
---!>
