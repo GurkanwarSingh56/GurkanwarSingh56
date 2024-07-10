@@ -12,3 +12,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: gurkanwarsingh56@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I can solve a Rubik's cube in under a minute!
+--!>
