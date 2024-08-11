@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Repository</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="header">
+        <button class="logo" type="button">
+            <a href="https://rayatbahrahsp.com/">
+                <img src="assets/logo.png" alt="Logo" height="100px">
+            </a>
+        </button>
+        <div class="header-left">
+            <a href="about.html">About</a>
+            <a href="contact.html">Contact</a>
+            <a href="login.html">Login</a>
+        </div>
+    </div>
+    <div class="home">        
+        <h1>Welcome to our event</h1>
+         <div class="countdown">
+        <h2>Time to Go!</h2>
+        <div id="timer"></div>
+    </div>
+        <p>A journey through excellence<br>
+        Our experience at IIT Roorkee</p>
+    </div>
+
+    <main>
+        <div class="card">
+            <img src="assets/1.jpg" alt="Avatar" style="width:80%">
+            <div class="container">
+                <h4><b>Event 1</b></h4>
+                <p>Some text</p>
+            </div>
+        </div>
+        <div class="card">
+            <img src="assets/2.jpg" alt="Avatar" style="width:80%">
+            <div class="container">
+                <h4><b>Event 2</b></h4>
+                <p>Some text</p>
+            </div>
+        </div>
+        <div class="card">
+            <img src="assets/3.jpg" alt="Avatar" style="width:80%">
+            <div class="container">
+                <h4><b>Event 3</b></h4>
+                <p>Some text</p>
+            </div>
+        </div>
+        <div class="card">
+            <img src="assets/4.jpg" alt="Avatar" style="width:80%">
+            <div class="container">
+                <h4><b>Event 4</b></h4>
+                <p>Some text</p>
+            </div>
+        </div>
+    </main>
+   
+    <div class="speaker">
+        <h2>A guide by Gurkanwar Singh & Kuldeep Badhan</h2>
+        <div class="speaker-container">
+            <div class="speaker-card">
+                <div class="speaker-card-inner">
+                    <div class="speaker-card-front">
+                        <img src="assets/speaker1.png" alt="Speaker 1" style="width:100%">
+                        <div class="container">
+                            <h4><b>Kuldeep Badhan</b></h4>
+                        </div>
+                    </div>
+                    <div class="speaker-card-back">
+                        <h4></h4>
+                        <p>Additional details about the speaker.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="speaker-card">
+                <div class="speaker-card-inner">
+                    <div class="speaker-card-front">
+                        <img src="assets/speaker2.jpg" alt="Speaker 2" style="width:100%">
+                        <div class="container">
+                            <h4><b>Gurkanwar Singh</b></h4>
+                        </div>
+                    </div>
+                    <div class="speaker-card-back">
+                        <h4>About Speaker 2</h4>
+                        <p>Additional details about the speaker.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="feedback">
+        <div class="feedback1">
+            <h3>Feedback</h3>
+        </div>
+        <div class="feedback2">
+            <form action="feedback.php" method="post">
+                <label for="name">Name:</label><br>
+                <input type="text" id="name" name="name" required><br>
+                <label for="email">Email:</label><br>
+                <input type="email" id="email" name="email" required><br>
+                <label for="feedback">Feedback:</label><br>
+                <textarea id="feedback" name="feedback" required></textarea><br>
+                <div class="submit">
+                    <input type="submit" value="Submit" id="submit">
+                </div>
+            </form>
+        </div>
+    </div>
+
+    <div class="footer">
+        <p>© 2024 Gurkanwar Singh. All Rights Reserved.</p>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>

@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ToDoList</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <div class="list">
+            <h2>ToDo List</h2>
+            <form action="add.php" method="post">
+                <input type="text" name="task" id="task" placeholder="Enter your task">
+                <button type="button" class="add-button" id="button">Add Task</button>
+                <ul class="todos" id="tasks"></ul> <!-- Added id="tasks" -->
+                <img src="empty.png" class="empty-image" style="display: none;" alt="No tasks">
+                <div class="buttons">
+                    <button type="button" class="delete-all" id="delete">Delete All</button>
+                </div>
+            </form>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
