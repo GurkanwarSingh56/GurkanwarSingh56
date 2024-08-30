@@ -1,20 +1,18 @@
 <h1 align="center">Hi 👋, I'm Gurkanwar Singh </h1>
 <h3 align="center">A passionate developer interested in Web3 technologies</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=neeraj-singhjeena&label=Profile%20views&color=0e75b6&style=flat" alt="neeraj-singhjeena" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=GurkanwarSingh56&label=Profile%20views&color=0e75b6&style=flat" alt="GurkanwarSingh56" /> </p>
 
 - 🌱 I’m currently learning **Node.js and React**
 - 👀 I’m interested in **Web3**
-- 💬 Ask me about **JavaScript, Node.js, React, C, C++, Python**
-- 📫 How to reach me **neeraj2005jeena@gmail.com**
+- 💬 Ask me about **JavaScript, Node.js, React, C, C++,**
+- 📫 How to reach me **gurkanwarsingh56@gmail.com**
 - 😄 Pronouns: **he/him**
 - ⚡ Fun fact: **I can solve a Rubik's Cube in under one minute**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/neeraj-jeena-980a3431b" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="neeraj-jeena-980a3431b" height="30" width="40" /></a>
-<a href="https://x.com/NeerajSingh9988?t=33kFJhlco93D_yHnYwJ-ew&s=09" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="NeerajSingh9988" height="30" width="40" /></a>
-</p>
+<a href="https://www.linkedin.com/in/gurkanwar-singh-20421b272" height="30" width="40" /></a>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -27,11 +25,5 @@
 <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
 <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
 <a href="https://www.cplusplus.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-<a href="https://www.python.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=neeraj-singhjeena&show_icons=true&locale=en&layout=compact" alt="neeraj-singhjeena" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=neeraj-singhjeena&show_icons=true&locale=en" alt="neeraj-singhjeena" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=neeraj-singhjeena&" alt="neeraj-singhjeena" /></p>
